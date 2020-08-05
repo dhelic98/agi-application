@@ -1,0 +1,6 @@
+{
+    "require": {
+        "marcelog/pagi": "^2.0",
+        "duncan3dc/speaker": "^1.3"
+    }
+}

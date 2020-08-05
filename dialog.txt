@@ -1,0 +1,39 @@
+/Welcome to the airport +
+
+/To check flight status press 1
+    /To check arrivals press 1
+       / To check flight info by flight number press 1
+            /Enter your 5 digit flight number
+       / To check flight info by flight origin press 2
+        /    To check flights from Sarajevo press 1
+        /    To check flights from Londond press 2
+         /   To check flights from New York press 3
+    /To check departures press 2
+      /  To check flight info by flight number press 1
+            Enter your 5 digit flight number
+        To check flight info by flight destination press 2
+            To check flights to Sarajevo press 1
+            To check flights to Londond press 2
+            To check flights to New York press 3
+
+/To check available flights press 2
+    To check available flights by destination press 1
+        To check flights to Sarajevo press 1
+        To check flights to Londond press 2
+        To check flights to New York press 3
+
+There is no flight with proiveded flight number
+Thank you for using our service, good bye,
+There are no flights from *
+Flights from * are *
+Flight number * from * is *
+Flight number * to * is *
+Flights to * are *
+There are no available flights to *
+Available flights to * are *
+Sarajevo
+London
+New York
+Tuzla
+
+
